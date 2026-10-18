@@ -13,19 +13,28 @@ I'm moving towards **health data science**: analysis, reproducible reporting and
 
 ### Featured projects
 
+**Health data & analytics** (work projects rebuilt on synthetic data)
+
+| Project | What it is |
+|---|---|
+| [**kpi-deck**](https://github.com/amrikyaruzi/kpi-deck) | Excel in, finished KPI slides out: branded PowerPoint/PDF decks with control charts (SD, p and Laney p′) and auto-drafted analysis |
+| [**clinical-documentation-audit**](https://github.com/amrikyaruzi/clinical-documentation-audit) | Medical-record audit pipeline: sampling, scoring, SPC and automated hospital, department and clinician decks |
+| [**tanzania-public-data-scrapers**](https://github.com/amrikyaruzi/tanzania-public-data-scrapers) | R and Python scrapers for Tanzanian health facilities, schools and districts, with geocoding and analysis |
+| [**National-Panel-Survey-Data-Analysis**](https://github.com/amrikyaruzi/National-Panel-Survey-Data-Analysis) | Analysis of Tanzania National Panel Survey data |
+
+**Self-hosting & tools**
+
 | Project | What it is |
 |---|---|
 | [**homelab**](https://github.com/amrikyaruzi/homelab) | My home lab: Proxmox, TrueNAS, OPNsense and 40+ services, with backups, monitoring and a power-cut shutdown chain |
 | [**yt-downloader**](https://github.com/amrikyaruzi/yt-downloader) | A self-hosted yt-dlp web app (FastAPI + live progress) that always returns a playable MP4 with sound |
-| [**National-Panel-Survey-Data-Analysis**](https://github.com/amrikyaruzi/National-Panel-Survey-Data-Analysis) | Analysis of Tanzania National Panel Survey data |
-
-*Coming soon:* anonymised healthcare analytics projects (control charts, survey analysis, web scraping) built on synthetic data.
 
 ### Tools
 
 **Daily:**
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?logo=tidyverse&logoColor=white)
+![officer](https://img.shields.io/badge/officer%20%2B%20mschart-B7472A?logo=microsoftpowerpoint&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-1A5F91)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 
