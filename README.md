@@ -1,6 +1,6 @@
 ## Hi, I'm Amri 👋
 
-I'm a physician (MD, MPH) working in **healthcare quality and patient safety** in Dar es Salaam, Tanzania. I oversee quality across a network of more than 20 health facilities, and most of my day is turning hospital data into decisions: indicators, control charts, surveys and reports.
+I'm a physician (MD, MPH) working in **healthcare quality and patient safety** in Dar es Salaam, Tanzania. Most of my day is turning hospital data into decisions: indicators, control charts, surveys and reports.
 
 I'm moving towards **health data science**: analysis, reproducible reporting and teaching. In my spare time I run a self-hosted home lab to learn Linux, networking and infrastructure properly.
 
